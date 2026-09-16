@@ -5,7 +5,7 @@ public class TestFactorial {
         int result = Factorial.calculate(5);
 
         if (result == 120) {
-            System.out.println("PASS");
+            System.out.println("Successfully Tested,PASS");
         } else {
             System.out.println("FAIL");
         }

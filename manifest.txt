@@ -1,1 +1,2 @@
-Main-class:Factorial
+Manifest-Version: 1.0
+Main-Class: Factorial
